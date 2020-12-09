@@ -1,5 +1,3 @@
-# Altair Code of Conduct
-
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
 Altair is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of participants in any form.
